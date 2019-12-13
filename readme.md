@@ -21,5 +21,13 @@ Demo User: admin@gmail.com Pass: 12345678
 3. CRUD.<br/>
 4. Export Excel. <br/>
 5. Dropdown With DB. <br/>
+<br/>
+
+
+<h2>Team Devjr:</h2>
+- Imam Solokhin
+- Kevin Maulana
+- M. Amrizam
+- Edwin Triasyah
 
 "# laravelvue" 
