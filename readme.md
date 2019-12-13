@@ -16,10 +16,10 @@ Demo User: admin@gmail.com Pass: 12345678
 - For pull requests related to additional modules or features, it will be subject for discussion as this project is intended for a very lean starting point and avoids to be bloated.
 
 <h3>How is Update</h3>
-1. Management User
-2. Master
-3. CRUD
-4. Export Excel
-5. Dropdown With DB
+1. Management User.
+2. Master.
+3. CRUD.
+4. Export Excel.
+5. Dropdown With DB.
 
 "# laravelvue" 
