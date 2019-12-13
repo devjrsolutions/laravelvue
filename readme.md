@@ -25,9 +25,10 @@ Demo User: admin@gmail.com Pass: 12345678
 
 
 <h2>Team Devjr:</h2>
-- Imam Solokhin
-- Kevin Maulana
-- M. Amrizam
-- Edwin Triasyah
+- Imam Solokhin.<br>
+- Kevin Maulana.<br>
+- M. Amrizam.<br>
+- Edwin Triasyah.<br>
+<br>
 
 "# laravelvue" 
