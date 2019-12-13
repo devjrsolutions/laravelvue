@@ -25,7 +25,7 @@ Demo User: admin@gmail.com Pass: 12345678
 
 
 <h2>Team Devjr:</h2>
-- Imam Solokhin.<br>
+- Imam Solikhin.<br>
 - Kevin Maulana.<br>
 - M. Amrizam.<br>
 - Edwin Triasyah.<br>
